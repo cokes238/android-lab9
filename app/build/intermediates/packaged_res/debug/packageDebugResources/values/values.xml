@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="anime1" translatable="false">ELDEN RING</string>
+    <string name="anime10" translatable="false">FINAL FANTASY XVI</string>
+    <string name="anime10_description" translatable="false">Final Fantasy XVI returns to its medieval fantasy roots with an epic story of Eikons and Dominants in the land of Valisthea. Follow Clive Rosfield on his journey of revenge and redemption in this action RPG.</string>
+    <string name="anime1_description" translatable="false">Elden Ring is a 2022 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It was directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. R. Martin.</string>
+    <string name="anime2" translatable="false">CYBERPUNK 2077</string>
+    <string name="anime2_description" translatable="false">Cyberpunk 2077 is an open-world action RPG set in the dark future of Night City. Players become V, a mercenary outlaw, in a massive open world where they can customize their character and make choices that affect the story.</string>
+    <string name="anime3" translatable="false">RED DEAD REDEMPTION 2</string>
+    <string name="anime3_description" translatable="false">Red Dead Redemption 2 is an epic tale of life in America\'s unforgiving heartland. The game follows Arthur Morgan and the Van der Linde gang as they rob, fight and steal their way across the American West.</string>
+    <string name="anime4" translatable="false">THE WITCHER 3: WILD HUNT</string>
+    <string name="anime4_description" translatable="false">The Witcher 3: Wild Hunt is a story-driven open world RPG set in a dark fantasy universe. Players control Geralt of Rivia, a monster hunter, as he searches for his adopted daughter and faces the otherworldly Wild Hunt.</string>
+    <string name="anime5" translatable="false">GOD OF WAR</string>
+    <string name="anime5_description" translatable="false">God of War takes Kratos into the world of Norse mythology. A new beginning for the God of War, featuring his son Atreus. Together they journey to scatter the ashes of Kratos\' wife at the highest peak of the nine realms.</string>
+    <string name="anime6" translatable="false">HORIZON FORBIDDEN WEST</string>
+    <string name="anime6_description" translatable="false">Horizon Forbidden West continues Aloy\'s journey across a post-apocalyptic America, now venturing to the forbidden west coast. She must explore new lands, fight new machines, and uncover the secrets behind a mysterious plague.</string>
+    <string name="anime7" translatable="false">STARFIELD</string>
+    <string name="anime7_description" translatable="false">Starfield is Bethesda\'s first new universe in 25 years, an epic space RPG set in the year 2330. Players can explore over 1000 planets, build ships, and join factions in this massive space adventure.</string>
+    <string name="anime8" translatable="false">BALDUR\'S GATE 3</string>
+    <string name="anime8_description" translatable="false">Baldur\'s Gate 3 is a story-rich party-based RPG set in the Dungeons Dragons universe. Based on the DD 5th edition rules, players create their character and embark on an epic adventure filled with choices and consequences.</string>
+    <string name="anime9" translatable="false">MARVEL\'S SPIDER-MAN 2</string>
+    <string name="anime9_description" translatable="false">Marvel\'s Spider-Man 2 continues the story of Peter Parker and Miles Morales as they face new threats in New York City. Together they battle iconic villains including Kraven the Hunter and the symbiote-powered Venom.</string>
+    <string name="app_name" translatable="false">8android</string>
+    <style name="Theme._8android" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

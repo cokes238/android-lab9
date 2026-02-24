@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime4.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime4.jpg"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime8.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime8.jpg"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-hdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime1.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime1.jpg"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.gorishny.a8android.app-main-6:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime3.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime7.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime7.jpg"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime9.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime10.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime6.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-mdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime5.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/drawable_ic_launcher_background.png.flat",
+        "source": "com.gorishny.a8android.app-main-6:/drawable/ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-debug-4:\\drawable_anime2.jpg.flat",
+        "source": "C:\\Users\\Student_7\\.gradle\\daemon\\8.13\\com.gorishny.a8android.app-main-6:\\drawable\\anime2.jpg"
+    },
+    {
+        "merged": "com.gorishny.a8android.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.gorishny.a8android.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
